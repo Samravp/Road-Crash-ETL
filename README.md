@@ -6,5 +6,30 @@ This project was completed by Marcus, Yifei and Samra.
 
 As Insurance Company Analysts in this project, we are analysing Department of Transport's road crashes for the past 5 years dataset in Victoria. Australia.
 
-![image](https://user-images.githubusercontent.com/85004202/139239645-33693964-f39b-47ca-ab61-f5a65d500af5.png)
+Output of this project is a database that includes the road crashes that occured in Victoria, Austalia between 2015 - 2020.
+
+We used 2 data sources and created a normalized and relational database with 13 tables in PostgreSQL.
+
+![image](https://user-images.githubusercontent.com/85004202/139241066-afba3265-a10e-4005-9059-23ff63225a45.png)
+
+
+Below is a step by step breakdown of our ETL process;
+
+- Exported Datasets and read them in our jupyternotebook
+- Inspected columns and searched for missing and NaN values (crashes dataframe)
+- Searched for duplicate values to remove them (crashes dataframe)
+- Removed the rows with missing data (crashes dataframe)
+- Removed irrelevant columns from the dataframe and just kept columns necessary for the analysis (final_lga dataframe)
+- Assigned unique IDs to each row in the dataframe (final_lga dataframe)
+- Mapped our datasets via LucidChart and identified primary and foreign keys
+
+ETL_project-2.jpeg![image](https://user-images.githubusercontent.com/85004202/139242781-d2422ba6-1d19-4119-9d09-bf420dab236c.png)
+
+- Normalised our dataframes and broke them into 13 tables
+- Defined our tables and created the schemas.sql
+- Created the schemas in our PostgreSQL database
+- Created an engine to between Python (Jupyter Notebook) and SQL database
+- Loaded data in our database using the engine.
+
+
 
