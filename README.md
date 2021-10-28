@@ -23,7 +23,7 @@ Below is a step by step breakdown of our ETL process;
 - Assigned unique IDs to each row in the dataframe (final_lga dataframe)
 - Mapped our datasets via LucidChart and identified primary and foreign keys
 
-ETL_project-2.jpeg![image](https://user-images.githubusercontent.com/85004202/139242781-d2422ba6-1d19-4119-9d09-bf420dab236c.png)
+<img src="https://user-images.githubusercontent.com/85004202/139242781-d2422ba6-1d19-4119-9d09-bf420dab236c.png" width="100" height="100">
 
 - Normalised our dataframes and broke them into 13 tables
 - Defined our tables and created the schemas.sql
