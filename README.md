@@ -10,7 +10,7 @@ Output of this project is a database that includes the road crashes that occured
 
 We used 2 data sources and created a normalized and relational database with 13 tables in PostgreSQL.
 
-![image](https://user-images.githubusercontent.com/85004202/139241066-afba3265-a10e-4005-9059-23ff63225a45.png)
+<img src="https://user-images.githubusercontent.com/85004202/139241066-afba3265-a10e-4005-9059-23ff63225a45.png" width="100" height="100">
 
 
 Below is a step by step breakdown of our ETL process;
@@ -23,7 +23,7 @@ Below is a step by step breakdown of our ETL process;
 - Assigned unique IDs to each row in the dataframe (final_lga dataframe)
 - Mapped our datasets via LucidChart and identified primary and foreign keys
 
-<img src="https://user-images.githubusercontent.com/85004202/139242781-d2422ba6-1d19-4119-9d09-bf420dab236c.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/85004202/139242781-d2422ba6-1d19-4119-9d09-bf420dab236c.png" width="1000" height="1000">
 
 - Normalised our dataframes and broke them into 13 tables
 - Defined our tables and created the schemas.sql
