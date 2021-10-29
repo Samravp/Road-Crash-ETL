@@ -30,5 +30,13 @@ Below is a step by step breakdown of our ETL process;
 - Created an engine to between Python (Jupyter Notebook) and SQL database
 - Loaded data in our database using the engine.
 
-
+## How to run the files:
+- Create a database in PGAdmin
+- Add the name of the database in the config file
+- Add your password to the config file
+- Save the config file
+- Right click on your database and click 'query tool'
+- Copy and paste the code in from the file 'schema.sql' in PGAdmin (this is optional but reccommended)
+- Run the code in 'transforming.ipynb' (this may take between 10-20 seconds)
+- The Data has now been loaded into the database
 
