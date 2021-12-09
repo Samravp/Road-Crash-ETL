@@ -4,7 +4,7 @@ Project 2: Extract, Transform, and Load
 
 This project was completed by;
 
-      - Marcus Correia;(https://github.com/MarcusKorea)
+      - [Marcus Correia](https://github.com/MarcusKorea);
       - Yifei  Yang;and 
       - Samra Vatan Parast.
 
