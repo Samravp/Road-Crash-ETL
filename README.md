@@ -2,7 +2,11 @@
 
 Project 2: Extract, Transform, and Load
 
-This project was completed by Marcus, Yifei and Samra.
+This project was completed by;
+
+      - Marcus Correia;(https://github.com/MarcusKorea)
+      - Yifei  Yang;and 
+      - Samra Vatan Parast.
 
 As Insurance Company Analysts in this project, we are analysing Department of Transport's road crashes for the past 5 years dataset in Victoria. Australia.
 
