@@ -8,7 +8,7 @@ This project was completed by;
    - [Yifei  Yang](https://github.com/9649Y-Yang); and 
    - [Samra Vatan Parast](https://github.com/Samravp).
 
-As Insurance Company Analysts in this project, we are analysing Department of Transport's road crashes for the past 5 years dataset in Victoria. Australia.
+As Insurance Company Analysts (Imaginary) in this project, we are analysing Department of Transport's road crashes for the past 5 years dataset in Victoria. Australia.
 
 Output of this project is a database that includes the road crashes that occured in Victoria, Austalia between 2015 - 2020.
 
