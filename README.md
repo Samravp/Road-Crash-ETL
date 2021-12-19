@@ -43,4 +43,3 @@ Below is a step by step breakdown of our ETL process;
 - Copy and paste the code in from the file 'schema.sql' in PGAdmin (this is optional but reccommended)
 - Run the code in 'transforming.ipynb' (this may take between 10-20 seconds)
 - The Data has now been loaded into the database
-
