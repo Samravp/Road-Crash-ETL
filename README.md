@@ -10,7 +10,7 @@ This project was completed by;
 
 As Insurance Company Analysts (Imaginary) in this project, we are analysing Department of Transport's road crashes for the past 5 years dataset in Victoria. Australia.
 
-Output of this project is a database that includes the road crashes that occured in Victoria, Austalia between 2015 - 2020.
+Output of this project is a database that includes the road crashes that occured in Victoria, Australia between 2015 - 2020.
 
 We used 2 data sources and created a normalized and relational database with 13 tables in PostgreSQL.
 
